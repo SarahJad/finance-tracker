@@ -1,0 +1,1 @@
+This is the finance Tracker app from the complete ruby on rails course
